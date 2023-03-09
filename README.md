@@ -1,5 +1,5 @@
 # ![Order Summary Component](https://github.com/Alfitho13/order-summary-component/blob/main/assets/images/demo/live-site-desktop.png)
-# WebApp
+# Order Summary Component
 <table>
 <tr>
 <td>
